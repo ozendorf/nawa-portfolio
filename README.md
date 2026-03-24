@@ -75,7 +75,3 @@ Users see a consent screen listing exactly what data is processed and by which p
 | Secrets scanning | Pre-commit hooks (gitleaks) |
 
 ---
-
-## About
-
-Built by **Soufiane JOUMAR** — Security Engineer, 10+ years in application security, DevSecOps, and cloud infrastructure.
