@@ -1,6 +1,6 @@
 # Nawa — Arabic Learning Platform
 
-A mobile language learning app for Arabic (MSA, Darija, Lebanese, etc.) with ~10k users. Built and operated end-to-end as a solo developer.
+A mobile language learning app for Arabic (MSA, Darija, Lebanese, etc.) with ~10k users. Built and operated end-to-end by two engineers.
 
 **Stack:** React Native (Expo), TypeScript, Fastify, Supabase, Google Gemini, OpenAI, ElevenLabs, Docker, Cloudflare, Tailscale, Grafana
 
